@@ -26,10 +26,10 @@ DELAY 200
 ENTER
 DELAY 200
 REM AUTOCORRECT "the" TO "teh" ~~~ change these below to whatever words you want to add a rule for ~~~~~
-STRING the
+STRING a
 DELAY 200
 TAB
-STRING teh
+STRING big black booty cheeks
 DELAY 200
 ALT a
 DELAY 200
